@@ -103,7 +103,11 @@ http://45.185.11.126:8000/play/a08d/index.m3u8
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a06w/index.m3u8
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo SP HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo SP HD
-http://dns.explouddev.com:80/632270679/F823j7133R/289883
+http://170.84.165.204/Globo_HD/index.m3u8
+#EXTINF:0 tvg-logo="" group-title="TV ABERTA",GLOBO 1
+http://aovivo.futeboltv.com:8081/live/18/chunks.m3u8?LISTASGLAU
+#EXTINF:0 tvg-logo="" group-title="TV ABERTA",GLOBO 2
+http://165.227.35.133/loadbalance/globo-sp/playlist.m3u8?pxAuth=Z5Uh6sh2qQMDyT5sRY4PNRuWJVnz8SXW
 #EXTINF:0,Gloob HD
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a07v/index.m3u8
@@ -168,7 +172,9 @@ http://45.185.11.126:8000/play/a0aq/index.m3u8
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a09n/index.m3u8
 #EXTINF:-1 tvg-id="Recordsp.br" tvg-name="RecordTV SP HD" tvg-logo="http://beststorage4you.com:80/logoscanais/RECORDTV.png" group-title="Canais | Record",RecordTV SP HD
-http://dns.explouddev.com:80/632270679/F823j7133R/244075
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/12888.ts
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/s2r5c8fxp/record.png" group-title="TV Aberta",RECORD SP 
+http://wz3.dnip.com.br/tvgazetamt/tvgazetamt.sdp/tv.m3u8
 #EXTINF:0,Premiere 2 HD
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a06h/index.m3u8
